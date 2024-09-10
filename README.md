@@ -1,1 +1,1 @@
-# coding-project-template
+Application using React that allows the user to price out the expenses related to hosting a conference at a convention center.
